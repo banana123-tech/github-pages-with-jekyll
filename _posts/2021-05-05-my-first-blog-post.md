@@ -1,3 +1,7 @@
+---
+title: "alittle about me"
+date: 2021-05-05
+---
 hey this blog is all about me
 hi i am a 15 year old student i am also an antie to a 4 year old neice and a 4 month old nephiew 
 i am teribble at spelling i am adventurous 
